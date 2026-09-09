@@ -87,8 +87,9 @@ This sits between the two other repos in the family: faster and more compressed 
 | [**7 Days of AI Security**](https://github.com/ppradyoth/7-days-of-ai-security) | A taste test. One week, zero prerequisites. |
 | **30 Days of AI Security** (this repo) | A serious, time-boxed month to real competence. |
 | [**100 Days of AI Security**](https://github.com/ppradyoth/100-days-of-ai-security) | The full curriculum, foundations to capstone. |
+| [**AI Security Interview Questions**](https://github.com/ppradyoth/ai-security-interview-questions) | Prepping for an interview now, across 7 AI-security-adjacent roles. |
 
-All three are built from the same verified source: [`ai-security-resources`](https://github.com/ppradyoth/ai-security-resources).
+All four are built from the same verified source: [`ai-security-resources`](https://github.com/ppradyoth/ai-security-resources).
 
 ## Contributing
 
