@@ -88,8 +88,9 @@ This sits between the two other repos in the family: faster and more compressed 
 | **30 Days of AI Security** (this repo) | A serious, time-boxed month to real competence. |
 | [**100 Days of AI Security**](https://github.com/ppradyoth/100-days-of-ai-security) | The full curriculum, foundations to capstone. |
 | [**AI Security Interview Questions**](https://github.com/ppradyoth/ai-security-interview-questions) | Prepping for an interview now, across 7 AI-security-adjacent roles. |
+| [**Prompt Injection & Jailbreak Technique Library**](https://github.com/ppradyoth/prompt-injection-jailbreak-library) | A categorized taxonomy of attack techniques, for feeding garak/PyRIT/promptfoo. |
 
-All four are built from the same verified source: [`ai-security-resources`](https://github.com/ppradyoth/ai-security-resources).
+All five are built from the same verified source: [`ai-security-resources`](https://github.com/ppradyoth/ai-security-resources).
 
 ## Contributing
 
